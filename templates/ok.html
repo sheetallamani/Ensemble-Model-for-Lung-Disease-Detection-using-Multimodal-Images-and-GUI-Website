@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Video Education Website</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+      }
+
+      header {
+        background-color: #333;
+        color: #fff;
+        padding: 20px;
+      }
+
+      header h1 {
+        margin: 0;
+      }
+
+      nav ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+      }
+
+      nav li {
+        display: inline-block;
+        margin-right: 20px;
+      }
+
+      nav li:last-child {
+        margin-right: 0;
+      }
+
+      nav a {
+        color: #fff;
+        text-decoration: none;
+      }
+
+      main {
+        padding: 20px;
+      }
+
+      section {
+        margin-bottom: 40px;
+      }
+
+      section h2 {
+        margin-top: 0;
+      }
+
+      .video-container {
+        position: relative;
+        padding-bottom: 56.25%;
+        height: 0;
+        overflow: hidden;
+      }
+
+      .video-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+      }
+
+      article {
+        border: 1px solid #ccc;
+      }
+
+      footer {
+        background-color: #333;
+        color: #fff;
+        padding: 20px;
+        text-align: center;
+      }
+
+      footer p {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Video Education Website</h1>
+      <nav>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Courses</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section>
+        <h2>Featured Courses</h2>
+        <div class="video-container">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL7sIrsaEsx8IAT-ZB6_wJa2UK4ZUc1-9V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+      </section>
+      <section>
+        <h2>Recent Articles</h2>
+        <article>
+          <h3>Article Title</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis euismod tortor sit amet nulla dictum vestibulum.</p>
+          <a href="#">Read More</a>
+        </article>
+        <article>
+          <h3>Article Title</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis euismod tortor sit amet nulla dictum vestibulum.</p>
+          <a href="#">Read More</a>
+        </article>
+        <article>
+          <h3>Article Title</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis euismod tortor sit amet nulla dictum vestibulum.</p>
+          <a href="#">Read More</a>
+        </article>
+      </section>
+    </main>
+    <footer>
+      <p>&copy; 2023 Video Education Website</p>
+    </footer>
+  </body>
+</html>

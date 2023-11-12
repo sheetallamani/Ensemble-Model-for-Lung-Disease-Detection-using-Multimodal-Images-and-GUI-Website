@@ -1,7 +1,8 @@
 # Ensemble Model for Lung Disease Detection using Multimodal-Images and GUI-Website
 ![GitHub Logo](https://raw.githubusercontent.com/sheetallamani/Ensemble-Model-for-Lung-Disease-Detection-using-Multimodal-Images-and-GUI-Website/main/Images/1st%20page.png)
-[![GitHub Logo](https://raw.githubusercontent.com/sheetallamani/Ensemble-Model-for-Lung-Disease-Detection-using-Multimodal-Images-and-GUI-Website/main/Images/1st%20page.png)](https://raw.githubusercontent.com/sheetallamani/Ensemble-Model-for-Lung-Disease-Detection-using-Multimodal-Images-and-GUI-Website/main/Images/2nd.png)
-
+(https://raw.githubusercontent.com/sheetallamani/Ensemble-Model-for-Lung-Disease-Detection-using-Multimodal-Images-and-GUI-Website/main/Images/1st%20page.png)](https://raw.githubusercontent.com/sheetallamani/Ensemble-Model-for-Lung-Disease-Detection-using-Multimodal-Images-and-GUI-Website/main/Images/2nd.png)
+#X-Ray
+![GitHub Logo](https://raw.githubusercontent.com/sheetallamani/Ensemble-Model-for-Lung-Disease-Detection-using-Multimodal-Images-and-GUI-Website/main/Images/rxxx.png)
 ## Description
  
 This project implements a web application for detecting pneumonia in chest X-ray images. It utilizes two different deep learning models for prediction. The models are served through a Flask web server, allowing users to upload images and receive predictions.

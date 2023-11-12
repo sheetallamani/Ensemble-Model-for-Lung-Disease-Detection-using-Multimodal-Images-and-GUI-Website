@@ -1,4 +1,4 @@
-# BreathEasy-ISHA Team 1
+# Ensemble-Model-for-Lung-Disease-Detection-using-Multimodal-Images-and-GUI-Website
 
 ## Description
 

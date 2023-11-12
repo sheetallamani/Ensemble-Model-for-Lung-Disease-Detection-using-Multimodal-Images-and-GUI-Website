@@ -39,4 +39,32 @@ This project implements a web application for detecting pneumonia in chest X-ray
 4. View the results displayed on the web page.
 
 ## Directory Structure
+/your_project_directory
+|-- static
+| |-- css
+| |-- main.css
+| |-- js
+| |-- main.js
+|-- templates
+| |-- index.html
+| |-- about.html
+| |-- service.html
+| |-- contact.html
+|-- app.py
+|-- model
+| |-- finalmodel-ResNet50.hdf5
+| |-- finalmodel-vgg16.hdf5
+|-- README.md
+|-- requirements.txt
+|-- other_project_files...
+
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgments
+
+- Include credits or acknowledgments if needed.
+
 

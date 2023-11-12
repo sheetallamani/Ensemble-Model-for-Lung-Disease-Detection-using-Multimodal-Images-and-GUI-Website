@@ -1,5 +1,6 @@
 # Ensemble Model for Lung Disease Detection using Multimodal-Images and GUI-Website
 ![GitHub Logo](https://raw.githubusercontent.com/sheetallamani/Ensemble-Model-for-Lung-Disease-Detection-using-Multimodal-Images-and-GUI-Website/main/Images/1st%20page.png)
+[![GitHub Logo](https://raw.githubusercontent.com/sheetallamani/Ensemble-Model-for-Lung-Disease-Detection-using-Multimodal-Images-and-GUI-Website/main/Images/1st%20page.png)](https://raw.githubusercontent.com/sheetallamani/Ensemble-Model-for-Lung-Disease-Detection-using-Multimodal-Images-and-GUI-Website/main/Images/2nd.png)
 
 ## Description
  

@@ -1,6 +1,6 @@
 # Ensemble Model for Lung Disease Detection using Multimodal-Images and GUI-Website
 ## Description
-
+ 
 This project implements a web application for detecting pneumonia in chest X-ray images. It utilizes two different deep learning models for prediction. The models are served through a Flask web server, allowing users to upload images and receive predictions.
 
 ## Features

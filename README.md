@@ -1,0 +1,2 @@
+# Ensemble-Model-for-Lung-Disease-Detection-using-Multimodal-Images-and-GUI-Website-
+Proposing a multimodal ensemble model for precise lung disease diagnosis, integrating X-ray and CT scans. Enhanced by a Graphical User Interface (GUI), diverse machine learning algorithms analyze curated datasets. Superior performance advances medical diagnostics, offering a robust solution for identifying lung diseases across imaging modalities.

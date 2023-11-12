@@ -1,4 +1,4 @@
-# Ensemble Model for Lung Disease Detection using Multimodal-Images and GUI-Website
+![image](https://github.com/sheetallamani/Ensemble-Model-for-Lung-Disease-Detection-using-Multimodal-Images-and-GUI-Website/assets/112767837/af4b1a3f-77e1-410c-a795-d5fbbf9d59a6)![image](https://github.com/sheetallamani/Ensemble-Model-for-Lung-Disease-Detection-using-Multimodal-Images-and-GUI-Website/assets/112767837/52cb3864-81b0-4a8a-a891-f9cd12fd81dd)# Ensemble Model for Lung Disease Detection using Multimodal-Images and GUI-Website
 ![GitHub Logo](https://raw.githubusercontent.com/sheetallamani/Ensemble-Model-for-Lung-Disease-Detection-using-Multimodal-Images-and-GUI-Website/main/Images/1st%20page.png)
 [![GitHub Logo](https://raw.githubusercontent.com/sheetallamani/Ensemble-Model-for-Lung-Disease-Detection-using-Multimodal-Images-and-GUI-Website/main/Images/rxxx.png)](https://raw.githubusercontent.com/sheetallamani/Ensemble-Model-for-Lung-Disease-Detection-using-Multimodal-Images-and-GUI-Website/main/Images/2nd.png)
 
@@ -10,6 +10,15 @@
 ## Description
  
 This project implements a web application for detecting pneumonia in chest X-ray images. It utilizes two different deep learning models for prediction. The models are served through a Flask web server, allowing users to upload images and receive predictions.
+
+## Adenocarcinoma
+![GitHub Logo](https://github.com/sheetallamani/Ensemble-Model-for-Lung-Disease-Detection-using-Multimodal-Images-and-GUI-Website/blob/main/Images/andr.png?raw=true)
+## Large cell carcinoma
+![GitHub Logo](https://github.com/sheetallamani/Ensemble-Model-for-Lung-Disease-Detection-using-Multimodal-Images-and-GUI-Website/blob/main/Images/lar.png?raw=true)
+## Squamous cell carcinoma
+![GitHub Logo](https://github.com/sheetallamani/Ensemble-Model-for-Lung-Disease-Detection-using-Multimodal-Images-and-GUI-Website/blob/main/Images/sm.png?raw=true)
+## Pneumonia
+![GitHub Logo](https://github.com/sheetallamani/Ensemble-Model-for-Lung-Disease-Detection-using-Multimodal-Images-and-GUI-Website/blob/main/Images/pno.png?raw=true)
 
 ## Accuracy  Table
 ![GitHub Logo](https://github.com/sheetallamani/Ensemble-Model-for-Lung-Disease-Detection-using-Multimodal-Images-and-GUI-Website/blob/main/Images/ll.png?raw=true)

@@ -9,7 +9,7 @@
 ![GitHub Logo](https://github.com/sheetallamani/Ensemble-Model-for-Lung-Disease-Detection-using-Multimodal-Images-and-GUI-Website/blob/main/Images/andro.png)
 ## Description
  
-This project implements a web application for detecting pneumonia in chest X-ray images. It utilizes two different deep learning models for prediction. The models are served through a Flask web server, allowing users to upload images and receive predictions.
+This project implements a web application for detecting various chest conditions, including pneumonia in X-ray images (indicated as "aaPneumonia") and different types of lung cancers, such as Adenocarcinoma, Large cell carcinoma, Squamous cell carcinoma, and COVID-19 in CT scans. The application utilizes two deep learning models: VGG16 for X-ray images and ResNet-50 for CT scans. These models are served through a Flask web server, allowing users to upload chest images and receive predictions for a range of respiratory conditions.
 
 ## Adenocarcinoma
 ![GitHub Logo](https://github.com/sheetallamani/Ensemble-Model-for-Lung-Disease-Detection-using-Multimodal-Images-and-GUI-Website/blob/main/Images/andr.png?raw=true)

@@ -16,13 +16,14 @@ This project implements a web application for detecting various chest conditions
 ## Pneumonia
 ![GitHub Logo](https://github.com/sheetallamani/Ensemble-Model-for-Lung-Disease-Detection-using-Multimodal-Images-and-GUI-Website/blob/main/Images/pno.png?raw=true)
 
-## Accuracy  Table
-![GitHub Logo](https://github.com/sheetallamani/Ensemble-Model-for-Lung-Disease-Detection-using-Multimodal-Images-and-GUI-Website/blob/main/Images/ll.png?raw=true)
-
 ## Resnet-50 Architectures
 ![GitHub Logo](https://github.com/sheetallamani/Ensemble-Model-for-Lung-Disease-Detection-using-Multimodal-Images-and-GUI-Website/blob/main/Images/resnet.png?raw=true)
 ## VGG-16 Architectures
 ![GitHub Logo](https://github.com/sheetallamani/Ensemble-Model-for-Lung-Disease-Detection-using-Multimodal-Images-and-GUI-Website/blob/main/Images/vgg.png?raw=true)
+
+## Accuracy  Table
+![GitHub Logo](https://github.com/sheetallamani/Ensemble-Model-for-Lung-Disease-Detection-using-Multimodal-Images-and-GUI-Website/blob/main/Images/ll.png?raw=true)
+
 ## Features
 
 - Image upload functionality
